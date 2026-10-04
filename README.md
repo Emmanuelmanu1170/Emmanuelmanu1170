@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Emmanuel! 👋
 
-<!--
-**Emmanuelmanu1170/Emmanuelmanu1170** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Digital Entrepreneur & Web Development Student**
 
-Here are some ideas to get you started:
+I am an Information Technology student at KNUST based in Kumasi. I operate [Gigantic Data Hub](https://giganticdatahub.com), a live digital service platform, and I am currently focused on learning web development from the ground up to build and scale my own web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm working on
+*   **Live Platforms:** Managing and operating **Gigantic Data Hub**.
+*   **Web Development Journey:** Actively studying the fundamentals of HTML, CSS, and JavaScript.
+*   **Current Goal:** Building my first responsive portfolio projects to complement my digital businesses.
+
+### 🛠️ Tech Stack & Tools
+*   **Currently Learning:** HTML, CSS, JavaScript
+*   **Tools:** GitHub
+
+### 📫 Let's Connect
+*   **LinkedIn:** [Insert your LinkedIn URL here]
+*   **X (Twitter):** [Insert your Twitter URL here]
