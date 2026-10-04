@@ -14,5 +14,5 @@ I am an Information Technology student at KNUST based in Kumasi. I operate [Giga
 *   **Tools:** GitHub
 
 ### 📫 Let's Connect
-*   **LinkedIn:** [Insert your LinkedIn URL here]
-*   **X (Twitter):** [Insert your Twitter URL here]
+*   **LinkedIn:** https://www.linkedin.com/in/emmanuel-manu-99359133b?utm_source=share_via&utm_content=profile&utm_medium=member_android
+*   **X (Twitter):** https://x.com/giganticdatahub
